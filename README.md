@@ -2,6 +2,9 @@
 
 ![Digao Dalpiaz](https://github-readme-stats.vercel.app/api?username=digao-dalpiaz&theme=dark&show_icons=true)
 
+Check out my Delphi and Lazarus HTML Text component
+![DzHTMLText](https://raw.githubusercontent.com/digao-dalpiaz/DzHTMLText/master/images/preview.gif)
+
 <!--
 **digao-dalpiaz/digao-dalpiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
