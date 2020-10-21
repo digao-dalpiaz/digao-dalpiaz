@@ -2,7 +2,7 @@
 
 ![Digao Dalpiaz](https://github-readme-stats.vercel.app/api?username=digao-dalpiaz&theme=dark&show_icons=true)
 
-Check out my Delphi and Lazarus HTML Text component
+Take a look at my Delphi and Lazarus HTML Text component
 [![DzHTMLText](https://raw.githubusercontent.com/digao-dalpiaz/DzHTMLText/master/images/preview.gif)](https://github.com/digao-dalpiaz/DzHTMLText)
 
 <!--
