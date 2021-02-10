@@ -5,6 +5,8 @@
 Take a look at my Delphi and Lazarus HTML Text component
 [![DzHTMLText](https://raw.githubusercontent.com/digao-dalpiaz/DzHTMLText/master/images/preview.gif)](https://github.com/digao-dalpiaz/DzHTMLText)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C53LVFN)
+
 <!--
 **digao-dalpiaz/digao-dalpiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
