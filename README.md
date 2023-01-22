@@ -1,6 +1,6 @@
 ### Welcome to my coding place 👋
 
-![Digao Dalpiaz](https://github-readme-stats-ruby-one.vercel.app/api?username=digao-dalpiaz&theme=dark&show_icons=true)
+![Digao Dalpiaz](https://github-readme-stats.vercel.app/api?username=digao-dalpiaz&theme=dark&show_icons=true)
 
 ### Almost reaching 500 stars! Thank you all for your contributions. 😄😄😄
 
