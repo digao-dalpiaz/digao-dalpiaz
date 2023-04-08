@@ -2,7 +2,7 @@
 
 ![Digao Dalpiaz](https://github-readme-stats.vercel.app/api?username=digao-dalpiaz&theme=dark&show_icons=true)
 
-### Almost reaching 500 stars! Thank you all for your contributions. 😄😄😄
+### After 4 years of hard work, I reached the 500 star mark! Thank you all for your contributions. 😄😄😄
 
 Take a look at my Delphi and Lazarus HTML Text component
 [![DzHTMLText](https://raw.githubusercontent.com/digao-dalpiaz/DzHTMLText/master/images/preview.gif)](https://github.com/digao-dalpiaz/DzHTMLText)
