@@ -1,6 +1,6 @@
 ### Welcome to my coding place 👋
 
-[:newspaper: Digao Dalpiaz News on Telegram](https://t.me/digaodalpiaznews)
+:newspaper: [Digao Dalpiaz News on Telegram](https://t.me/digaodalpiaznews)
 
 ![Digao Dalpiaz](https://github-readme-stats.vercel.app/api?username=digao-dalpiaz&theme=dark&show_icons=true)
 
