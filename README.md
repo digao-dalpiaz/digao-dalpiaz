@@ -1,5 +1,7 @@
 ### Welcome to my coding place 👋
 
+[Digao Dalpiaz News on Telegram](t.me/digaodalpiaznews)
+
 ![Digao Dalpiaz](https://github-readme-stats.vercel.app/api?username=digao-dalpiaz&theme=dark&show_icons=true)
 
 ### After 4 years of hard work, I reached the 500 star mark! Thank you all for your contributions. 😄😄😄
